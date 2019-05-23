@@ -65,7 +65,7 @@
     "puppeteer": "^1.0.0",
     "rosie": "^1.6.0",
     "selenium-webdriver": "^2.53.1",
-    "sinon": "^1.17.2",
+    "sinon": "^4.5.0",
     "sinon-chai": "^2.14.0",
     "typescript": "^2.6.2",
     "unirest": "^0.5.1",
