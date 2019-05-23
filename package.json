@@ -67,7 +67,7 @@
     "selenium-webdriver": "^2.53.1",
     "sinon": "^1.17.2",
     "sinon-chai": "^2.14.0",
-    "typescript": "^2.6.2",
+    "typescript": "^3.4.5",
     "unirest": "^0.5.1",
     "webdriverio": "^4.9.11"
   },
