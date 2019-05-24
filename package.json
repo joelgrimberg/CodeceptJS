@@ -63,7 +63,7 @@
     "nyc": "^11.4.1",
     "protractor": "^5.2.2",
     "puppeteer": "^1.0.0",
-    "rosie": "^1.6.0",
+    "rosie": "^2.0.1",
     "selenium-webdriver": "^2.53.1",
     "sinon": "^1.17.2",
     "sinon-chai": "^2.14.0",
