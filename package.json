@@ -60,7 +60,7 @@
     "json-server": "^0.15.0",
     "nightmare": "^2.5.2",
     "nightmare-upload": "^0.1.1",
-    "nyc": "^11.4.1",
+    "nyc": "^15.1.0",
     "protractor": "^5.2.2",
     "puppeteer": "^1.0.0",
     "rosie": "^2.0.1",
