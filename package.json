@@ -52,7 +52,7 @@
     "chai": "^3.4.1",
     "chai-as-promised": "^5.2.0",
     "co-mocha": "^1.2.1",
-    "documentation": "^4.0.0-beta1",
+    "documentation": "^13.1.1",
     "eslint": "^4.13.1",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0",
